@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chetan Amrao</h1>
+<h1 align="center">Hi 👋 I'm Chetan Amrao☺</h1>
 <h3 align="center">A Python developer and AI/ML enthusiast from Pune, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanknowit&label=Profile%20views&color=0e75b6&style=flat" alt="chetanknowit" /> </p>
