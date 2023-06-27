@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanknowit&label=Profile%20views&color=0e75b6&style=flat" alt="chetanknowit" /> </p>
 
-- 🔭 I’m currently working on **data structures and programming tests**
+- 🔭 I’m currently working on **different cloud technologies**
 
 - 🌱 I’m currently interested in **PySpark.**
 
